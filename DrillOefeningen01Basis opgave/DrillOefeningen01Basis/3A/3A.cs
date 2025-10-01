@@ -11,6 +11,8 @@
                                   (O O)
                                 (   V  )
                               -----m-m----      ");
+            Console.ReadKey();
         }
     }
 }
+
