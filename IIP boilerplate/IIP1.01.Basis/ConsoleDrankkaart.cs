@@ -6,6 +6,8 @@ namespace ConsoleDrankkaart
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8; 
+            
             Console.WriteLine("@====== MENU ======");
             Console.WriteLine("☕ Koffie:   3€");
             Console.WriteLine("🍵 Thee:    2€");
@@ -18,3 +20,4 @@ namespace ConsoleDrankkaart
         }
     }
 }
+
