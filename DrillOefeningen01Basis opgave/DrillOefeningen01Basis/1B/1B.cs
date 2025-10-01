@@ -1,11 +1,15 @@
 ﻿using System;
 
-public class Class1
+public class Program
 { 
     static void Main(string[] args)
     {
-        Console.WriteLine("Voer je naam in: ");
+        Console.Write("Voer je naam in: ");
         string naam = Console.ReadLine();
+        
         Console.WriteLine($"Hallo, {naam}!");
 
     }
+}
+    
+
