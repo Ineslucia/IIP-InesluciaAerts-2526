@@ -1,0 +1,5 @@
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\1B\obj\Debug\net8.0\1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\1B\obj\Debug\net8.0\1B.AssemblyInfoInputs.cache
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\1B\obj\Debug\net8.0\1B.AssemblyInfo.cs
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\1B\obj\Debug\net8.0\1B.csproj.CoreCompileInputs.cache
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\1B\obj\Debug\net8.0\1B.sourcelink.json
