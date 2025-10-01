@@ -1,0 +1,15 @@
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ConsoleDrankkaart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ConsoleDrankkaart.AssemblyInfoInputs.cache
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ConsoleDrankkaart.AssemblyInfo.cs
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ConsoleDrankkaart.csproj.CoreCompileInputs.cache
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ConsoleDrankkaart.sourcelink.json
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\bin\Debug\net8.0\ConsoleDrankkaart.exe
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\bin\Debug\net8.0\ConsoleDrankkaart.deps.json
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\bin\Debug\net8.0\ConsoleDrankkaart.runtimeconfig.json
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\bin\Debug\net8.0\ConsoleDrankkaart.dll
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\bin\Debug\net8.0\ConsoleDrankkaart.pdb
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ConsoleDrankkaart.dll
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\refint\ConsoleDrankkaart.dll
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ConsoleDrankkaart.pdb
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ConsoleDrankkaart.genruntimeconfig.cache
+C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\ConsoleDrankkaart\obj\Debug\net8.0\ref\ConsoleDrankkaart.dll
