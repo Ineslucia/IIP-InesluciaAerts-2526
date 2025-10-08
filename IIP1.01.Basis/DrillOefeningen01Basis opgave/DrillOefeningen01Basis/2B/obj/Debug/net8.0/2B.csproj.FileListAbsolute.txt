@@ -1,0 +1,15 @@
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\bin\Debug\net8.0\2B.exe
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\bin\Debug\net8.0\2B.deps.json
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\bin\Debug\net8.0\2B.runtimeconfig.json
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\bin\Debug\net8.0\2B.dll
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\bin\Debug\net8.0\2B.pdb
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\2B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\2B.AssemblyInfoInputs.cache
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\2B.AssemblyInfo.cs
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\2B.csproj.CoreCompileInputs.cache
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\2B.sourcelink.json
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\2B.dll
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\refint\2B.dll
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\2B.pdb
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\2B.genruntimeconfig.cache
+C:\Users\inesa\OneDrive\Documenten\IIP1\DrillOefeningen01Basis opgave\DrillOefeningen01Basis\2B\obj\Debug\net8.0\ref\2B.dll
