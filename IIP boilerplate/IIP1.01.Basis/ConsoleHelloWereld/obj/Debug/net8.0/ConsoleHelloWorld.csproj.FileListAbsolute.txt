@@ -1,5 +1,0 @@
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\obj\Debug\net8.0\ConsoleHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfoInputs.cache
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfo.cs
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\obj\Debug\net8.0\ConsoleHelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.01.Basis\obj\Debug\net8.0\ConsoleHelloWorld.sourcelink.json
