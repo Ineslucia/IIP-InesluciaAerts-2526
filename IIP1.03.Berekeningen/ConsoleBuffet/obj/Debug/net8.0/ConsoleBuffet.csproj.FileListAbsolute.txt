@@ -1,7 +1,0 @@
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.AssemblyInfoInputs.cache
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.AssemblyInfo.cs
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.csproj.CoreCompileInputs.cache
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.sourcelink.json
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.dll
-C:\Users\inesa\OneDrive\Documenten\IIP1\IIP boilerplate\IIP1.03.Berekeningen\ConsoleBuffet\obj\Debug\net8.0\ConsoleBuffet.pdb
