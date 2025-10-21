@@ -1,0 +1,15 @@
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ConsoleRadenGrenzen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ConsoleRadenGrenzen.AssemblyInfoInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ConsoleRadenGrenzen.AssemblyInfo.cs
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ConsoleRadenGrenzen.csproj.CoreCompileInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ConsoleRadenGrenzen.sourcelink.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\bin\Debug\net8.0\ConsoleRadenGrenzen.exe
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\bin\Debug\net8.0\ConsoleRadenGrenzen.deps.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\bin\Debug\net8.0\ConsoleRadenGrenzen.runtimeconfig.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\bin\Debug\net8.0\ConsoleRadenGrenzen.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\bin\Debug\net8.0\ConsoleRadenGrenzen.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ConsoleRadenGrenzen.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\refint\ConsoleRadenGrenzen.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ConsoleRadenGrenzen.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ConsoleRadenGrenzen.genruntimeconfig.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleRadenGrenzen\obj\Debug\net8.0\ref\ConsoleRadenGrenzen.dll

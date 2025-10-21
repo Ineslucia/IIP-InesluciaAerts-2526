@@ -1,0 +1,15 @@
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ConsoleAtm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ConsoleAtm.AssemblyInfoInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ConsoleAtm.AssemblyInfo.cs
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ConsoleAtm.csproj.CoreCompileInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ConsoleAtm.sourcelink.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\bin\Debug\net8.0\ConsoleAtm.exe
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\bin\Debug\net8.0\ConsoleAtm.deps.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\bin\Debug\net8.0\ConsoleAtm.runtimeconfig.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\bin\Debug\net8.0\ConsoleAtm.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\bin\Debug\net8.0\ConsoleAtm.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ConsoleAtm.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\refint\ConsoleAtm.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ConsoleAtm.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ConsoleAtm.genruntimeconfig.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.04.Selecties\ConsoleAtm\obj\Debug\net8.0\ref\ConsoleAtm.dll
