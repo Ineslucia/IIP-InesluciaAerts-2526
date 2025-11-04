@@ -1,0 +1,15 @@
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\Console.KlinkerSpaties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\Console.KlinkerSpaties.AssemblyInfoInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\Console.KlinkerSpaties.AssemblyInfo.cs
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\Console.KlinkerSpaties.csproj.CoreCompileInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\Console.KlinkerSpaties.sourcelink.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\bin\Debug\net8.0\Console.KlinkerSpaties.exe
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\bin\Debug\net8.0\Console.KlinkerSpaties.deps.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\bin\Debug\net8.0\Console.KlinkerSpaties.runtimeconfig.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\bin\Debug\net8.0\Console.KlinkerSpaties.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\bin\Debug\net8.0\Console.KlinkerSpaties.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\Console.KlinkerSpaties.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\refint\Console.KlinkerSpaties.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\Console.KlinkerSpaties.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\Console.KlinkerSpaties.genruntimeconfig.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleKlinkersSpaties\obj\Debug\net8.0\ref\Console.KlinkerSpaties.dll

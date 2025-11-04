@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleGgd/1.0.0": {
+        "runtime": {
+          "ConsoleGgd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleGgd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

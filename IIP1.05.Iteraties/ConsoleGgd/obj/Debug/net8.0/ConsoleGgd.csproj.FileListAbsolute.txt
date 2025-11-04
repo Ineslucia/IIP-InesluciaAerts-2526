@@ -1,0 +1,15 @@
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ConsoleGgd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ConsoleGgd.AssemblyInfoInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ConsoleGgd.AssemblyInfo.cs
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ConsoleGgd.csproj.CoreCompileInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ConsoleGgd.sourcelink.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\bin\Debug\net8.0\ConsoleGgd.exe
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\bin\Debug\net8.0\ConsoleGgd.deps.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\bin\Debug\net8.0\ConsoleGgd.runtimeconfig.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\bin\Debug\net8.0\ConsoleGgd.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\bin\Debug\net8.0\ConsoleGgd.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ConsoleGgd.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\refint\ConsoleGgd.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ConsoleGgd.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ConsoleGgd.genruntimeconfig.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleGgd\obj\Debug\net8.0\ref\ConsoleGgd.dll
