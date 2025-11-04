@@ -1,0 +1,15 @@
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ConsoleBankautomaat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ConsoleBankautomaat.AssemblyInfoInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ConsoleBankautomaat.AssemblyInfo.cs
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ConsoleBankautomaat.csproj.CoreCompileInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ConsoleBankautomaat.sourcelink.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\bin\Debug\net8.0\ConsoleBankautomaat.exe
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\bin\Debug\net8.0\ConsoleBankautomaat.deps.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\bin\Debug\net8.0\ConsoleBankautomaat.runtimeconfig.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\bin\Debug\net8.0\ConsoleBankautomaat.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\bin\Debug\net8.0\ConsoleBankautomaat.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ConsoleBankautomaat.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\refint\ConsoleBankautomaat.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ConsoleBankautomaat.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ConsoleBankautomaat.genruntimeconfig.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleBankautomaat\obj\Debug\net8.0\ref\ConsoleBankautomaat.dll
