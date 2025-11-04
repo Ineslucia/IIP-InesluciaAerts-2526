@@ -1,0 +1,15 @@
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\bin\Debug\net8.0\ConsoleLancering.exe
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\bin\Debug\net8.0\ConsoleLancering.deps.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\bin\Debug\net8.0\ConsoleLancering.runtimeconfig.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\bin\Debug\net8.0\ConsoleLancering.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\bin\Debug\net8.0\ConsoleLancering.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ConsoleLancering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ConsoleLancering.AssemblyInfoInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ConsoleLancering.AssemblyInfo.cs
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ConsoleLancering.csproj.CoreCompileInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ConsoleLancering.sourcelink.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ConsoleLancering.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\refint\ConsoleLancering.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ConsoleLancering.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ConsoleLancering.genruntimeconfig.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleLancering\obj\Debug\net8.0\ref\ConsoleLancering.dll

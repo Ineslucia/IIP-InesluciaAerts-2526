@@ -1,0 +1,15 @@
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\bin\Debug\net8.0\ConsoleSom.exe
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\bin\Debug\net8.0\ConsoleSom.deps.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\bin\Debug\net8.0\ConsoleSom.runtimeconfig.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\bin\Debug\net8.0\ConsoleSom.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\bin\Debug\net8.0\ConsoleSom.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ConsoleSom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ConsoleSom.AssemblyInfoInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ConsoleSom.AssemblyInfo.cs
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ConsoleSom.csproj.CoreCompileInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ConsoleSom.sourcelink.json
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ConsoleSom.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\refint\ConsoleSom.dll
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ConsoleSom.pdb
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ConsoleSom.genruntimeconfig.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.05.Iteraties\ConsoleSom\obj\Debug\net8.0\ref\ConsoleSom.dll
