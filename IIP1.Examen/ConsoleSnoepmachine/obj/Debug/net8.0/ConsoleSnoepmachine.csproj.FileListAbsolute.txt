@@ -1,0 +1,5 @@
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.Examen\ConsoleSnoepmachine\obj\Debug\net8.0\ConsoleSnoepmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.Examen\ConsoleSnoepmachine\obj\Debug\net8.0\ConsoleSnoepmachine.AssemblyInfoInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.Examen\ConsoleSnoepmachine\obj\Debug\net8.0\ConsoleSnoepmachine.AssemblyInfo.cs
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.Examen\ConsoleSnoepmachine\obj\Debug\net8.0\ConsoleSnoepmachine.csproj.CoreCompileInputs.cache
+C:\Users\inesa\Documents\IIP\IIP boilerplate\IIP1.Examen\ConsoleSnoepmachine\obj\Debug\net8.0\ConsoleSnoepmachine.sourcelink.json
