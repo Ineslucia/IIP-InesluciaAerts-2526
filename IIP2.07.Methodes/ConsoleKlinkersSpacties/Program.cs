@@ -33,7 +33,7 @@ class Program
         int count = 0;
         foreach (char c in input)
         {
-            char lower = c >= 'A' && c <= 'Z' ? (char)(c + 32) : c; // converteer hoofdletter naar kleine letter
+            char lower = char.ToLower(c); // converteer hoofdletter naar kleine letter
             if (lower == 'a' || lower == 'e' || lower == 'i' || lower == 'o' || lower == 'u')
             {
                 count++;
@@ -59,3 +59,4 @@ class Program
         return resultaat;
     }
 }
+
