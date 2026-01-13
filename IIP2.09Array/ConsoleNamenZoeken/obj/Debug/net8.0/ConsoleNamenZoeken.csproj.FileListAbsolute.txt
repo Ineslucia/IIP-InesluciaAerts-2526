@@ -1,0 +1,14 @@
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.AssemblyInfo.cs
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.exe
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.deps.json
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.runtimeconfig.json
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.dll
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\bin\Debug\net8.0\ConsoleNamenZoeken.pdb
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.dll
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\refint\ConsoleNamenZoeken.dll
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.pdb
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ConsoleNamenZoeken.genruntimeconfig.cache
+C:\Users\adria\Documents\IIP boilerplate\IIP2.09.Arrays\ConsoleNamenZoeken\obj\Debug\net8.0\ref\ConsoleNamenZoeken.dll
