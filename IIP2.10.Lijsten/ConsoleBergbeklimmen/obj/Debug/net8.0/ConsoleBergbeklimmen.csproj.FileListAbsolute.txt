@@ -1,0 +1,14 @@
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\bin\Debug\net8.0\ConsoleBergbeklimmen.exe
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\bin\Debug\net8.0\ConsoleBergbeklimmen.deps.json
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\bin\Debug\net8.0\ConsoleBergbeklimmen.runtimeconfig.json
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\bin\Debug\net8.0\ConsoleBergbeklimmen.dll
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\bin\Debug\net8.0\ConsoleBergbeklimmen.pdb
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\ConsoleBergbeklimmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\ConsoleBergbeklimmen.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\ConsoleBergbeklimmen.AssemblyInfo.cs
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\ConsoleBergbeklimmen.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\ConsoleBergbeklimmen.dll
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\refint\ConsoleBergbeklimmen.dll
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\ConsoleBergbeklimmen.pdb
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\ConsoleBergbeklimmen.genruntimeconfig.cache
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsoleBergbeklimmen\obj\Debug\net8.0\ref\ConsoleBergbeklimmen.dll

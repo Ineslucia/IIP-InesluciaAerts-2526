@@ -1,0 +1,14 @@
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\bin\Debug\net8.0\ConsolePasswoordenSorteren.exe
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\bin\Debug\net8.0\ConsolePasswoordenSorteren.deps.json
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\bin\Debug\net8.0\ConsolePasswoordenSorteren.runtimeconfig.json
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\bin\Debug\net8.0\ConsolePasswoordenSorteren.dll
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\bin\Debug\net8.0\ConsolePasswoordenSorteren.pdb
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\ConsolePasswoordenSorteren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\ConsolePasswoordenSorteren.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\ConsolePasswoordenSorteren.AssemblyInfo.cs
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\ConsolePasswoordenSorteren.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\ConsolePasswoordenSorteren.dll
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\refint\ConsolePasswoordenSorteren.dll
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\ConsolePasswoordenSorteren.pdb
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\ConsolePasswoordenSorteren.genruntimeconfig.cache
+C:\Users\adria\Documents\IIP-InesluciaAerts-2526-main\IIP-InesluciaAerts-2526-main\IIP2.10.Lijsten\ConsolePasswoordenSorteren\obj\Debug\net8.0\ref\ConsolePasswoordenSorteren.dll
